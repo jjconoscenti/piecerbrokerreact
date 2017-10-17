@@ -70,7 +70,7 @@ class App extends Component {
 	className='example'
 >
 		<h5 className="white-text">PieceBroker</h5>
-		<p className="grey-text text-lighten-4">What's your mouth up for?</p>
+		<p className="grey-text text-lighten-4">{`What's your mouth up for?`}</p>
 </Footer>
 </Col>
         </Row>
