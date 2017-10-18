@@ -83,12 +83,6 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 // export default Team;
 
-export default App;
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import './App.css';
-import {Row, Col, Card, CardTitle, Footer} from 'react-materialize';
-
 class App extends Component {
     render() {
       return (
@@ -165,5 +159,5 @@ class App extends Component {
     }
 }
 ReactDOM.render(<App />, document.getElementById('root'));
-// export default Team;
+// export default Team;;
 export default App;
