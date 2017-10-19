@@ -29,7 +29,7 @@ class App extends Component {
             </Card>
           </Col>
           <Col m={4} s={4}>
-            <Card header={<CardTitle reveal image={"./teamImages/colin-mcatee.jpeg"} waves='light'/>}
+            <Card header={<CardTitle reveal image={"./teamImages/colindog.png"} waves='light'/>}
               title="Colin McAtee"
               reveal={<p>Software engineer at RIVS Digital Interviews. Passionate about developing quality UI with dynamic backends. U Michigan Sports Fanatic.</p>}>
               <p><a href="https://github.com/colinmac17">More about Colin</a></p>
