@@ -7,10 +7,10 @@ class App extends Component {
     render() {
       return (
         <div>
-        <Navbar brand='PieceBroker'  className="blue darken-1"right>
+        <Navbar brand='PieceBroker'  href="" className="blue darken-1"right>
 	<NavItem href='get-started.html'>Find Food</NavItem>
-  <NavItem href='components.html'>Sign Out</NavItem>
-	<NavItem href='components.html'>Meet the Team</NavItem>
+  <NavItem href='components.html'>My History</NavItem>
+	<NavItem href='components.html'>Sign Out</NavItem>
 </Navbar>
 
         <Row>
