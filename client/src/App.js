@@ -75,7 +75,7 @@ class App extends Component {
 	className='blue darken-1'
 >
 		<h5 className="white-text">PieceBroker</h5>
-		<p className="grey-text text-lighten-4">What's your mouth up for?</p>
+		<p className="grey-text text-lighten-4">{`What's your mouth up for?`}</p>
 </Footer>
 </Col>
         </div>
